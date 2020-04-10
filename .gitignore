@@ -1,3 +1,6 @@
-/Alistirmalar/out/*
-/Alistirmalar/src/com/*
-/Alistirmalar/src/image/*
+/Alistirmalar/out
+/Alistirmalar/src
+!/Alistirmalar/src/hafta_3
+!/Alistirmalar/src/hafta_4
+*.iml
+!.gitignore
