@@ -1,2 +1,7 @@
 # Default ignored files
-/workspace.xml
+/*.xml
+/Alistirmalar/out
+/Alistirmalar/src
+!/Alistirmalar/src/hafta_3
+!/Alistirmalar/src/hafta_4
+*.iml
