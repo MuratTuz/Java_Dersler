@@ -1,6 +1,8 @@
-/Alistirmalar/out
-/Alistirmalar/src
-!/Alistirmalar/src/hafta_3
-!/Alistirmalar/src/hafta_4
+/.idea
+/out
+/src
+!/src/hafta_3
+!/src/hafta_4
 *.iml
+*.xml
 !.gitignore
